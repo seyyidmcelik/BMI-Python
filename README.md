@@ -8,5 +8,6 @@
 
 ---
 ![BMI App](appImg.png)
+![BMI App](appImg2.png)
 ---
 
