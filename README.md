@@ -1,6 +1,6 @@
 # Body Mass Index with Python PyQt5
 
-*** What you need? ***
+***What you need?***
 
 * Python
 * PyQt5
